@@ -1,9 +1,4 @@
 Poll & Voting App
----------------------------------------
-
-This project is a full-stack web application that allows users to participate in polls created by an admin.  
-Admins can create multiple-choice polls, and users can vote only once per poll.  
-After the poll closes, users can view the results as a static summary chart or list.
 
 Features
 
